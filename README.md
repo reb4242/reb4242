@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reb4242
+- 👋 Hi, I’m Rebecca
 - 👀 I’m interested in software development and web development
 - 🌱 I’m currently learning Java
 - 😄 Pronouns: she/her
