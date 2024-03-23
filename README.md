@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @reb4242
-- 👀 I’m interested in software development or web development
+- 👀 I’m interested in software development and web development
 - 🌱 I’m currently learning Java
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love pistachios, the colour, texture...and the ice-cream flavour!
+- ⚡ Fun fact: I love pistachios, the colour, texture...especially the ice-cream flavour
 
 <!---
 reb4242/reb4242 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
