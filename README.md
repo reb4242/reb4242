@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rebecca
 - 👀 I’m interested in information systems and data analytics
-- 🌱 I’m currently learning C at McGill University
+- 🌱 I’m currently studying management & CS at McGill University
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love pistachios, the colour, texture...especially the ice-cream flavour
 
