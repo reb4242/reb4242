@@ -1,7 +1,7 @@
-👋 Hi, I’m Rebecca
-🌱 I’m freshman studying management & CS at McGill University
-😄 Here's my LinkedIn @ [Rebecca Li](www.linkedin.com/in/baijia-li)
-⚡ Fun fact: I love pistachios, the colour, texture...especially the ice-cream flavour
+- 👋 **Hi, I’m Rebecca**
+- 🌱 I’m freshman studying management & CS at McGill University
+- 😄 Here's my LinkedIn @ [Rebecca Li](www.linkedin.com/in/baijia-li)
+- ⚡ Fun fact: I love pistachios, the colour, texture...especially the ice-cream flavour
 
 📚 I'm currently taking
 - COMP206 Introduction to Software Systems
