@@ -1,5 +1,5 @@
 <font size=”6″>👋 **Hi, I’m Rebecca**</font>
-- I’m freshman studying management and computer science at McGill University
+- I’m freshman at McGill University studying management and computer science
 - Here's my LinkedIn @ [Rebecca Li](www.linkedin.com/in/baijia-li)
 - Fun fact: I love pistachios, the colour, texture...especially the ice-cream flavour
 
