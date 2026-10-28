@@ -12,12 +12,14 @@
 
 
 💪 I've taken
-- COMP250 Introduction to Computer Science
+- MGCR331 Information Systems
+- PHYS224 Physics of Music
+- COMP206 Intro to Computer Systems
+- COMP250 Intro to Computer Science
 - MGCR233 Data Programming for Business
 - MATH140 Calculus 1
 - MATH133 Linear Algebra and Geometry
-- MGCR211 Introduction to Financial Accounting
-
+  
 <!---
 reb4242/reb4242 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
